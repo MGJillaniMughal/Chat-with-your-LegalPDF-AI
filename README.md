@@ -27,17 +27,24 @@ To run the application:
 
 # Features
 Legal PDF Processing: Advanced tools for interacting with legal documents in PDF format.
+
 AI Chat Integration: Sophisticated language model integration for AI-powered chat functionalities.
+
 Custom Web Interface: Streamlit-based GUI, enhanced with custom HTML and CSS for a superior user experience.
+
 State-of-the-Art AI Technologies: Utilizing LangChain, OpenAI, and other cutting-edge technologies for robust AI interactions.
 
 # Contributing
 Contributions to the "Chat with your LegalPDF AI" project are welcome. Please follow these steps:
 
 Fork the repository.
+
 Create a new branch for your feature.
+
 Commit your changes.
+
 Push to the branch.
+
 Create a new Pull Request.
 
 # License
